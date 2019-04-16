@@ -1,3 +1,12 @@
+## workshop 
+
+done with the help of:
+[https://reactjs.org/docs/forms.html]
+[https://github.com/CookPete/react-player]
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
